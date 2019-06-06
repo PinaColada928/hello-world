@@ -1,2 +1,2 @@
 # hello-world
-A place store ideas, resources, and to have discussions!
+A place to store ideas, resources, and to have discussions!
